@@ -3,7 +3,7 @@
 옵시디언(Obsidian) 노트 폴더를 AI 에이전트가 직접 읽고 쓰게 해 "스스로 정리되는 제2의 뇌"로 운영하기 위한 견본 모음입니다.
 Karpathy의 [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 구상과 Forte의 *Building a Second Brain*을 참고해, 실제 운영하며 다듬은 구조·규칙·양식을 일반화했습니다.
 
-해설 글: [제2의 뇌 구축하기: 옵시디언과 AI 에이전트 기반 개인 지식 체계](https://jason-log.github.io/2026/10/16/obsidian-ai-second-brain/)
+해설 글: [제2의 뇌 구축하기: 옵시디언과 AI 에이전트 기반 개인 지식 체계](https://jason-log.notion.site/2-AI-3fbb37d1f4498174abb2c397523a7577)
 
 ## 들어 있는 것
 
